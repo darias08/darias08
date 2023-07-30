@@ -37,7 +37,7 @@ My passion for technology and providing a secure environment experience has driv
     
 <h2>📃 Certifications: </h2>
 
-  - [Google Cybersecurity Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/certificate/R8D5V28DX4HC](https://www.credly.com/badges/8d8e1b23-a9d2-442d-9967-77c411c1f3ac))
+  - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/8d8e1b23-a9d2-442d-9967-77c411c1f3ac)
 
 
 ## 🧰 Languages and Tools I have used:
