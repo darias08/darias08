@@ -8,9 +8,7 @@ it holds when using technology. My goal in the field of cybersecurity is to help
 cybersecurity are; Following the basic fundamentals of NIST Framework, using SIEM tools like Splunk or Chronicle to investigate any threats, navigating or configuring files with Linux, Filtering data with SQL queries, scanning for vulnerabilities on a network with Nmap, using a packet-sniffer called Wireshark, and automating a task using
 Python.
 
-My passion for technology and providing a secure environment experience has driven me to become versatile and have a curious mindset as a cybersecurity professional. What makes me stand out is my will to solve problems that are challenging or difficult. I am the type who would not give up on a situation when things feel challenging and I want to do everything I can to fix that problem until it has been remediated. I am always ready to face challenges in cybersecurity and strive to protect valuable assets. Thank you for taking the time to read about my experience and knowledge in the world of cybersecurity. Don't be afraid to reach out to me if you have any questions!
-
-- 📫  If you have any questions or just want to chat, please reach me at danielarias999@hotmail.com
+My passion for technology and providing a secure environment experience has driven me to become versatile and have a curious mindset as a cybersecurity professional. What makes me stand out is my will to solve problems that are challenging or difficult. I am the type who would not give up on a situation when things feel challenging and I want to do everything I can to fix that problem until it has been remediated. I am always ready to face challenges in cybersecurity and strive to protect valuable assets. Thank you for taking the time to read about my experience in the world of cybersecurity and please reach out to me if you have any questions at danielarias999@hotmail.com. I would be delighted to speak with you!
 
 ### 💗 Hobbies:
 
