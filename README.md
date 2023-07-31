@@ -14,7 +14,7 @@ My passion for technology and providing a secure environment experience has driv
 
 - ✈️  I love to travel around the world and see new places I haven't been to before.
 - ❤️ I love to listen to music, read books, watch hacking tutorial videos, doing CTF challenges on TryHackMe, or programming.
-- 💪 I spend time improving my skills, like using Stackoverflow, Coursera courses, etc...
+- 💪 I spend time improving my skills, like using Stackoverflow, Coursera courses, TryHackMe or HackTheBox, etc...
 
 
 <h2>🔐 Cyber Security Projects I have done:</h2>
