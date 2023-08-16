@@ -31,7 +31,6 @@ My passion for technology and providing a secure environment experience has driv
 <h2> :bulb: Personal Projects</h2>
   
   - [House Cleaning Mobile App](https://github.com/darias08/House-Cleaning-App) 
-  - [Gaming Library Mobile App](https://github.com/darias08/Gaming-Library-Mobile-App)
     
 <h2>📃 Certifications: </h2>
 
