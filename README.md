@@ -20,6 +20,7 @@ My passion for technology and providing a secure environment experience has driv
 <h2>🔐 Cyber Security Projects I have done:</h2>
 
   - [Automate a task using Python](https://github.com/darias08/Update-A-File-Using-Python)
+  - [Packet Sniffer Wireshark](https://github.com/darias08/Analyze-network-with-Wireshark)
   - [Splunk SIEM Tool project](https://github.com/darias08/SIEM-Tool-Splunk-Project)
   - [Chronicle SIEM Tool project](https://github.com/darias08/SIEM-Tool-Chronicle-Project)
   - [Applying filters to SQL queries](https://github.com/darias08/SQL-Project)
